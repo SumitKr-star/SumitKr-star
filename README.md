@@ -15,7 +15,7 @@ Email Me 👉 ✉️ **sumitkr781225@gmail.com** For Collaboration/Project or An
 <div align="center">
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake anim
 
-## ✍️ Random Dev Quote
+# ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
 
 # 📊 GitHub Stats:
