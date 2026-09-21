@@ -16,7 +16,7 @@
 
 <br/>
 
-# 💻 Tech Stack:
+## 💻 Tech Stack:
 <div align="center">
 <img src="https://skillicons.dev/icons?i=cpp,python,js,ts,react,tailwind,vite,nodejs,mysql,git,github,figma&theme=dark" />
 </div>
