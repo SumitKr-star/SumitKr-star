@@ -1,13 +1,20 @@
 # 💫 Hi 👋, I'm Sumit Kumar
-**ML Engineer loading**
+<h1 align="center">ML Engineer in Progress 👩‍💻</h1>
 
-Email Me 👉 ✉️ **sumitkr781225@gmail.com** For Collaboration/Project or Anything Else. 😊😊
+<h3 align="center">🚀 About Me</h3>
 
-- 🔭 **I’m currently working on:** DS
-- 🌱 **I’m currently learning:** Neural network
-- 💬 **Ask me about:** Collaboration, Tech Support
-- 📫 **How to reach me:** sumitkr781225@gmail.com
+<p align="center">
+🌍 Based in <b>Delhi, India</b> &nbsp;|&nbsp;
+🎓 BSc Computer Science (Hons) @ <b>Ramanujan College, Delhi University</b> &nbsp;|&nbsp;
+<!-- 🛠️ Building: <b>Full-Stack Web Apps</b> with Next.js & Django &nbsp;|&nbsp;
+ Experimenting with: <b>REST APIs, SQL databases, cloud deployment</b> &nbsp;|&nbsp; -->
+💬 Ask me about: <b>Web Dev, Python, numpy, pandas, Tenderflow</b>
+</p>
+
+- Email Me 👉 ✉️ **sumitkr781225@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 - ⚡ **Fun fact:** When the whole space is dark, Why the stars alone spark..?
+
+<br/>
 
 # 💻 Tech Stack:
 <div align="center">
@@ -26,10 +33,6 @@ Email Me 👉 ✉️ **sumitkr781225@gmail.com** For Collaboration/Project or An
 # ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=SumitKr-star&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=SumitKr-star&theme=tokyonight&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=SumitKr-star&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 
 
