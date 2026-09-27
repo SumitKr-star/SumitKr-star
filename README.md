@@ -16,7 +16,8 @@
 
 <br/>
 
-## 💻 Tech Stack:
+
+## 💻 Tech Stack
 <div align="center">
 
  **Languages**
@@ -62,23 +63,30 @@
 </sub>
 </div>
 
-<br/>
+<br>
 
 <!-- Snake Game Repo View -->
 <div align="center">
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 </div> 
 
-## 🌐 Let's Connect!
+<br>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/Sumit Kumar)
+## 🌐 Let's Connect!
+<div align = "center">
+
+ [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/Sumit-Kumar)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/btw_iam.sumit)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sumitkr781225@gmail.com)
 
+</div>
+<br>
 
 # ✍️ Random Dev Quote
+<div align = "center">
+ 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
-
+</div>
 
 
 
