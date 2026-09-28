@@ -11,10 +11,14 @@
 💬 Ask me about: <b>Web Dev, Python, numpy, pandas, Tenderflow</b>
 </p>
 
+<br>
+<br>
+
+
 - Email Me 👉 ✉️ **sumitkr781225@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 - ⚡ **Fun fact:** When the whole space is dark, Why the stars alone spark..?
 
-<br/>
+<br>
 
 
 <h1 align="center">💻 Tech Stack</h1>
