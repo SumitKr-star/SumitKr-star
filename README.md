@@ -12,10 +12,10 @@
 </p>
 
 <br>
+
+- Email Me 👉 ✉️**sumitkr781225@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 <br>
 
-
-- Email Me 👉 ✉️ **sumitkr781225@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 - ⚡ **Fun fact:** When the whole space is dark, Why the stars alone spark..?
 
 <br>
